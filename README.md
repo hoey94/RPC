@@ -1,14 +1,19 @@
-Ä¿Â¼ËµÃ÷
-rpc-client : ¿Í»§¶Ë¿ò¼ÜºËĞÄ´úÂë
-rpc-server : ·şÎñ¶Ë¿ò¼ÜºËĞÄ´úÂë
-rpc-common : ¿ò¼Ü¹¤¾ß
-rpc-registry : ÀïÃæÓĞÁ½¸öºËĞÄ¹¦ÄÜ,
-		1.×¢²á·şÎñ - ServiceDiscovery
-		2.·¢ÏÖ·şÎñ - ServiceRegistry
-rpc-sample-app : ¿Í»§¶Ë³ÌĞò (µ÷ÓÃ±»·¢²¼µÄ·şÎñ,Ö´ĞĞ¶ÔÓ¦ÒµÎñ´úÂë)
-rpc-sample-server : ·şÎñÇø³ÌĞò (ÓÃÀ´·¢²¼RPC·şÎñ)
+### ç›®å½•è¯´æ˜
+- rpc-client : å®¢æˆ·ç«¯æ¡†æ¶æ ¸å¿ƒä»£ç 
+- rpc-server : æœåŠ¡ç«¯æ¡†æ¶æ ¸å¿ƒä»£ç 
+- rpc-common : æ¡†æ¶å·¥å…·
+- rpc-registry : é‡Œé¢æœ‰ä¸¤ä¸ªæ ¸å¿ƒåŠŸèƒ½,
+		- 1.æ³¨å†ŒæœåŠ¡ - ServiceDiscovery
+		- 2.å‘ç°æœåŠ¡ - ServiceRegistry
+- rpc-sample-app : å®¢æˆ·ç«¯ç¨‹åº (è°ƒç”¨è¢«å‘å¸ƒçš„æœåŠ¡,æ‰§è¡Œå¯¹åº”ä¸šåŠ¡ä»£ç )
+- rpc-sample-server : æœåŠ¡åŒºç¨‹åº (ç”¨æ¥å‘å¸ƒRPCæœåŠ¡)
 
-1.ÏÈ°ÑzookeeperÅÜÆğÀ´ (ÎÒÕâ±ß¸ãµÃÊÇzookeeper¼¯Èº,¿ÉÒÔµ¥Ì¨zookeeperÅÜÒ²Ã»ÎÊÌâ)
-2.°ÑÏîÄ¿µ¼Èëµ½IDEA»òÕßEclipse£¨×¢ÒâÅämaven£©
-3.Æô¶¯rpc-sample-server ½«helloService·¢²¼³É·şÎñ
-4.Æô¶¯rpc-sample-app µ÷ÓÃHelloService
+### è¿è¡Œæ–¹å¼
+
+1.å…ˆæŠŠzookeeperè·‘èµ·æ¥ (æˆ‘è¿™è¾¹æå¾—æ˜¯zookeeperé›†ç¾¤,å¯ä»¥å•å°zookeeperè·‘ä¹Ÿæ²¡é—®é¢˜)
+
+2.æŠŠé¡¹ç›®å¯¼å…¥åˆ°IDEAæˆ–è€…Eclipseï¼ˆæ³¨æ„é…mavenï¼‰
+
+3.å¯åŠ¨rpc-sample-server å°†helloServiceå‘å¸ƒæˆæœåŠ¡
+
+4.å¯åŠ¨rpc-sample-app è°ƒç”¨HelloService
